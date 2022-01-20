@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#156b6a</color>
+    <color name="colorAccent">#dc6a6a</color>
+    <color name="colorPrimaryDark">#CACACA</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#787878</color>
+
+    <!-- &#45;&#45;&#45;&#45;&#45;&#45;Color-&#45;&#45;&#45;&#45;&#45;&#45;
+     primary color #156b6a
+     secondary color #dc6a6a
+     2secondary color #888888-->
+</resources>

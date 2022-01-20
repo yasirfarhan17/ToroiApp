@@ -1,0 +1,25 @@
+<resources>
+
+  <string name="cd_app_icon">app icon</string>
+  <string name="text_payment_successful">Payment successful</string>
+  <string name="text_payment_failed">Payment failed</string>
+    <string name="txt_welcome_back">Welcome Back !</string>
+    <string name="txt_please_log_in_to_your_account">Please Log in to your Account</string>
+    <string name="txt_enter_user_id">Enter User Id</string>
+    <string name="txt_password">Password</string>
+  <string name="txt_user_id">User Id</string>
+    <string name="txt_remember_me">Remember me</string>
+    <string name="txt_forgot_password">Forgot Password?</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_register_patient">REGISTER PATIENT</string>
+  <string name="txt_generalist_consult">GENERALIST CONSULT</string>
+  <string name="txt_specialist_consult">SPECIALIST CONSULT</string>
+  <string name="txt_antenatal_care">ANTENATAL CARE</string>
+  <string name="txt_preventive_care">PREVENTIVE CARE</string>
+  <string name="txt_emr">EMR</string>
+  <string name="txt_wallet">WALLET</string>
+    <string name="txt_profile">Profile</string>
+  <string name="txt_edit">Edit</string>
+  <string name="txt_uphealth">UpHealth</string>
+  <string name="txt_glocal">Glocal</string>
+</resources>
